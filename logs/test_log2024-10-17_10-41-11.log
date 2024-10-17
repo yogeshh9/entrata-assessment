@@ -1,0 +1,13 @@
+2024-10-17 10:41:13,701 INFO Navigating to the Entrata homepage.
+2024-10-17 10:41:21,815 INFO Cookie consent accepted.
+2024-10-17 10:41:22,193 INFO Browser window maximized.
+2024-10-17 10:41:22,411 INFO Ad closed.
+2024-10-17 10:41:22,413 INFO Executing test_move_through_headers.
+2024-10-17 10:41:22,635 INFO Moving through the headers in the navigation menu.
+2024-10-17 10:41:23,078 INFO Hovered over 'Products' menu.
+2024-10-17 10:41:23,395 INFO Hovered over 'Solutions' menu.
+2024-10-17 10:41:23,693 INFO Hovered over 'Resources' menu.
+2024-10-17 10:41:23,993 INFO Hovered over 'Basecamp' link.
+2024-10-17 10:41:24,283 INFO Hovered over 'Watch Demo' link.
+2024-10-17 10:41:24,563 INFO Hovered over 'Sign In' link.
+2024-10-17 10:41:24,565 INFO Closing the browser.

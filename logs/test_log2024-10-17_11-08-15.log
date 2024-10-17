@@ -1,0 +1,11 @@
+2024-10-17 11:08:17,479 INFO Navigating to the Entrata homepage.
+2024-10-17 11:08:24,670 INFO Cookie consent accepted.
+2024-10-17 11:08:24,826 INFO Browser window maximized.
+2024-10-17 11:08:25,221 INFO Ad closed.
+2024-10-17 11:08:25,222 INFO Executing test_move_to_products.
+2024-10-17 11:08:25,614 INFO Hovered over 'Products'.
+2024-10-17 11:08:26,186 INFO Hovered over 'Accounting'.
+2024-10-17 11:08:26,618 INFO Clicked on 'Bill Pay'.
+2024-10-17 11:08:26,629 INFO Current URL after clicking: https://www.entrata.com/a
+2024-10-17 11:08:26,630 ERROR Expected URL 'https://www.entrata.com/products/billpay' but got 'https://www.entrata.com/a'.
+2024-10-17 11:08:26,631 INFO Closing the browser.

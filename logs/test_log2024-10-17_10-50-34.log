@@ -1,0 +1,12 @@
+2024-10-17 10:50:36,977 INFO Navigating to the Entrata homepage.
+2024-10-17 10:50:45,954 INFO Cookie consent accepted.
+2024-10-17 10:50:46,494 INFO Browser window maximized.
+2024-10-17 10:50:46,883 INFO Ad closed.
+2024-10-17 10:50:46,886 INFO Executing test_EntrataOverviewVideo.
+2024-10-17 10:50:46,916 INFO Located the script tag containing JSON data.
+2024-10-17 10:50:46,936 INFO Parsed JSON data from the script.
+2024-10-17 10:50:46,936 INFO Extracted video URL: https://fast.wistia.com/embed/medias/poeyvxtay8
+2024-10-17 10:50:47,307 INFO Requested video URL. Status code: 200
+2024-10-17 10:50:47,308 INFO Video URL is accessible.
+2024-10-17 10:50:47,308 INFO ** test_entrata_overview_video executed successfully **
+2024-10-17 10:50:47,312 INFO Closing the browser.

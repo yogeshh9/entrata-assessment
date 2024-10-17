@@ -1,0 +1,10 @@
+2024-10-17 10:55:06,980 INFO Navigating to the Entrata homepage.
+2024-10-17 10:55:16,146 INFO Cookie consent accepted.
+2024-10-17 10:55:16,483 INFO Browser window maximized.
+2024-10-17 10:55:17,029 INFO Ad closed.
+2024-10-17 10:55:17,031 INFO Executing test_HomepageTitle.
+2024-10-17 10:55:17,043 INFO Expected title: Property Management Software | Entrata
+2024-10-17 10:55:17,043 INFO Actual title: Property Management Software | Entrata
+2024-10-17 10:55:17,044 INFO Homepage title verified successfully.
+2024-10-17 10:55:17,044 INFO ** test_homepage_title executed successfully **
+2024-10-17 10:55:17,045 INFO Closing the browser.

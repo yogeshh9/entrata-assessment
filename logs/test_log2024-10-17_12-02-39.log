@@ -1,0 +1,14 @@
+2024-10-17 12:02:41,536 INFO Navigating to the Entrata homepage.
+2024-10-17 12:03:55,293 INFO Cookie consent accepted.
+2024-10-17 12:03:55,450 INFO Browser window maximized.
+2024-10-17 12:03:55,841 INFO Ad closed.
+2024-10-17 12:03:55,843 INFO Executing test_explore_more.
+2024-10-17 12:03:55,858 INFO Located 'Explore More' button.
+2024-10-17 12:03:55,895 INFO Scrolled to position: 1350.0.
+2024-10-17 12:03:56,486 INFO Clicked 'Explore More' button.
+2024-10-17 12:03:56,625 INFO Switched to new tab.
+2024-10-17 12:03:59,450 INFO New Tab Title: Basecamp 2025 | Entrata
+2024-10-17 12:03:59,463 INFO New Tab URL: https://basecamp.entrata.com/
+2024-10-17 12:03:59,480 INFO Verified new tab title and URL.
+2024-10-17 12:03:59,502 INFO Switched back to old tab.
+2024-10-17 12:03:59,762 INFO Closing the browser.

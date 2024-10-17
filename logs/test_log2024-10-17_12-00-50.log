@@ -1,0 +1,25 @@
+2024-10-17 12:00:53,055 INFO Navigating to the Entrata homepage.
+2024-10-17 12:02:32,076 WARNING Cookie consent button not found: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.101)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7BE7DB095+29557]
+	(No symbol) [0x00007FF7BE74FA50]
+	(No symbol) [0x00007FF7BE60B56A]
+	(No symbol) [0x00007FF7BE5DFCC5]
+	(No symbol) [0x00007FF7BE68EE07]
+	(No symbol) [0x00007FF7BE6A7E21]
+	(No symbol) [0x00007FF7BE686F33]
+	(No symbol) [0x00007FF7BE65116F]
+	(No symbol) [0x00007FF7BE6522D1]
+	GetHandleVerifier [0x00007FF7BEB0C96D+3378253]
+	GetHandleVerifier [0x00007FF7BEB58497+3688311]
+	GetHandleVerifier [0x00007FF7BEB4D1CB+3642539]
+	GetHandleVerifier [0x00007FF7BE89A6B6+813462]
+	(No symbol) [0x00007FF7BE75AB5F]
+	(No symbol) [0x00007FF7BE756B74]
+	(No symbol) [0x00007FF7BE756D10]
+	(No symbol) [0x00007FF7BE745C1F]
+	BaseThreadInitThunk [0x00007FFCAA2A257D+29]
+	RtlUserThreadStart [0x00007FFCAC5CAF08+40]
+

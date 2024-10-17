@@ -1,0 +1,92 @@
+2024-10-17 11:13:56,090 INFO Navigating to the Entrata homepage.
+2024-10-17 11:14:21,790 INFO Cookie consent accepted.
+2024-10-17 11:14:21,930 INFO Browser window maximized.
+2024-10-17 11:14:22,301 INFO Ad closed.
+2024-10-17 11:14:22,304 INFO ** Executing test_demoForm **
+2024-10-17 11:14:22,710 INFO Scrolled to the first name field.
+2024-10-17 11:14:23,792 INFO Filled out the user details.
+2024-10-17 11:14:23,978 INFO Selected unit count.
+2024-10-17 11:14:24,232 INFO Entered job title.
+2024-10-17 11:14:24,356 INFO Selected demo request option.
+2024-10-17 11:14:24,522 INFO Screenshot taken after filling the form.
+2024-10-17 11:14:24,522 INFO ** test_demo_form executed successfully **
+2024-10-17 11:14:24,525 INFO Closing the browser.
+2024-10-17 11:14:33,001 INFO Navigating to the Entrata homepage.
+2024-10-17 11:14:40,142 INFO Cookie consent accepted.
+2024-10-17 11:14:40,268 INFO Browser window maximized.
+2024-10-17 11:14:40,637 INFO Ad closed.
+2024-10-17 11:14:40,638 INFO Executing test_EntrataOverviewVideo.
+2024-10-17 11:14:40,656 INFO Located the script tag containing JSON data.
+2024-10-17 11:14:40,667 INFO Parsed JSON data from the script.
+2024-10-17 11:14:40,667 INFO Extracted video URL: https://fast.wistia.com/embed/medias/poeyvxtay8
+2024-10-17 11:14:40,950 INFO Requested video URL. Status code: 200
+2024-10-17 11:14:40,951 INFO Video URL is accessible.
+2024-10-17 11:14:40,952 INFO ** test_entrata_overview_video executed successfully **
+2024-10-17 11:14:40,956 INFO Closing the browser.
+2024-10-17 11:14:49,425 INFO Navigating to the Entrata homepage.
+2024-10-17 11:15:14,292 INFO Cookie consent accepted.
+2024-10-17 11:15:14,438 INFO Browser window maximized.
+2024-10-17 11:15:14,826 INFO Ad closed.
+2024-10-17 11:15:14,831 INFO Executing test_explore_more.
+2024-10-17 11:15:14,848 INFO Located 'Explore More' button.
+2024-10-17 11:15:14,880 INFO Scrolled to position: 1350.0.
+2024-10-17 11:15:15,425 INFO Clicked 'Explore More' button.
+2024-10-17 11:15:15,507 INFO Switched to new tab.
+2024-10-17 11:15:16,824 INFO New Tab Title: Basecamp 2025 | Entrata
+2024-10-17 11:15:16,832 INFO New Tab URL: https://basecamp.entrata.com/
+2024-10-17 11:15:16,841 INFO Verified new tab title and URL.
+2024-10-17 11:15:16,860 INFO Switched back to old tab.
+2024-10-17 11:15:16,926 INFO Old Tab Title: Property Management Software | Entrata
+2024-10-17 11:15:16,937 INFO Old Tab URL: https://www.entrata.com/a
+2024-10-17 11:15:16,951 INFO Verified old tab title and URL.
+2024-10-17 11:15:16,951 INFO ** test_explore_more executed successfully **
+2024-10-17 11:15:16,952 INFO Closing the browser.
+2024-10-17 11:15:25,364 INFO Navigating to the Entrata homepage.
+2024-10-17 11:15:50,592 INFO Cookie consent accepted.
+2024-10-17 11:15:50,763 INFO Browser window maximized.
+2024-10-17 11:15:51,130 INFO Ad closed.
+2024-10-17 11:15:51,131 INFO ** Executing test_HomepageTitle **
+2024-10-17 11:15:51,144 INFO Expected title: Property Management Software | Entrata
+2024-10-17 11:15:51,144 INFO Actual title: Property Management Software | Entrata
+2024-10-17 11:15:51,144 INFO Homepage title verified successfully.
+2024-10-17 11:15:51,144 INFO ** test_homepage_title executed successfully **
+2024-10-17 11:15:51,145 INFO Closing the browser.
+2024-10-17 11:15:59,462 INFO Navigating to the Entrata homepage.
+2024-10-17 11:16:04,804 INFO Cookie consent accepted.
+2024-10-17 11:16:04,959 INFO Browser window maximized.
+2024-10-17 11:16:05,908 INFO Ad closed.
+2024-10-17 11:16:05,910 INFO ** Executing test_move_through_headers **
+2024-10-17 11:16:06,054 INFO Moving through the headers in the navigation menu.
+2024-10-17 11:16:06,373 INFO Hovered over 'Products' menu.
+2024-10-17 11:16:06,812 INFO Hovered over 'Solutions' menu.
+2024-10-17 11:16:07,100 INFO Hovered over 'Resources' menu.
+2024-10-17 11:16:07,404 INFO Hovered over 'Basecamp' link.
+2024-10-17 11:16:07,715 INFO Hovered over 'Watch Demo' link.
+2024-10-17 11:16:08,031 INFO Hovered over 'Sign In' link.
+2024-10-17 11:16:08,031 INFO ** test_move_through_headers executed successfully **
+2024-10-17 11:16:08,031 INFO Closing the browser.
+2024-10-17 11:16:16,407 INFO Navigating to the Entrata homepage.
+2024-10-17 11:16:21,967 INFO Cookie consent accepted.
+2024-10-17 11:16:22,090 INFO Browser window maximized.
+2024-10-17 11:16:22,488 INFO Ad closed.
+2024-10-17 11:16:22,489 INFO ** Executing test_move_to_products **
+2024-10-17 11:16:22,799 INFO Hovered over 'Products'.
+2024-10-17 11:16:23,282 INFO Hovered over 'Accounting'.
+2024-10-17 11:16:23,698 INFO Clicked on 'Bill Pay'.
+2024-10-17 11:16:23,711 INFO Current URL after clicking: https://www.entrata.com/a
+2024-10-17 11:16:23,712 ERROR Expected URL 'https://www.entrata.com/products/billpay' but got 'https://www.entrata.com/a'.
+2024-10-17 11:16:23,712 INFO ** test_open_bill executed successfully **
+2024-10-17 11:16:23,713 INFO Closing the browser.
+2024-10-17 11:16:32,113 INFO Navigating to the Entrata homepage.
+2024-10-17 11:16:37,334 INFO Cookie consent accepted.
+2024-10-17 11:16:37,471 INFO Browser window maximized.
+2024-10-17 11:16:38,355 INFO Ad closed.
+2024-10-17 11:16:38,357 INFO ** Executing test_summitRegistration **
+2024-10-17 11:16:38,390 INFO Located 'Summit' link.
+2024-10-17 11:16:38,667 INFO Hovered over 'Summit' link.
+2024-10-17 11:16:38,891 INFO Clicked on 'Summit' link.
+2024-10-17 11:16:38,939 ERROR An error occurred: Expected title to contain 'Summit', but got 'Property Management Software | Entrata'
+assert 'Summit' in 'Property Management Software | Entrata'
+ +  where 'Property Management Software | Entrata' = <selenium.webdriver.chrome.webdriver.WebDriver (session="cb1cc6807135f4a1c2bd6a3eca27807f")>.title
+2024-10-17 11:16:39,546 INFO ** test_summit_page executed successfully **
+2024-10-17 11:16:39,547 INFO Closing the browser.

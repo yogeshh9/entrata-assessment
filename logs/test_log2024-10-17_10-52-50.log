@@ -1,0 +1,18 @@
+2024-10-17 10:52:52,617 INFO Navigating to the Entrata homepage.
+2024-10-17 10:53:00,273 INFO Cookie consent accepted.
+2024-10-17 10:53:00,625 INFO Browser window maximized.
+2024-10-17 10:53:00,813 INFO Ad closed.
+2024-10-17 10:53:00,814 INFO Executing test_explore_more.
+2024-10-17 10:53:00,839 INFO Located 'Explore More' button.
+2024-10-17 10:53:00,887 INFO Scrolled to position: 1350.0.
+2024-10-17 10:53:01,548 INFO Clicked 'Explore More' button.
+2024-10-17 10:53:01,670 INFO Switched to new tab.
+2024-10-17 10:53:04,223 INFO New Tab Title: Basecamp 2025 | Entrata
+2024-10-17 10:53:04,236 INFO New Tab URL: https://basecamp.entrata.com/
+2024-10-17 10:53:04,250 INFO Verified new tab title and URL.
+2024-10-17 10:53:04,282 INFO Switched back to old tab.
+2024-10-17 10:53:04,335 INFO Old Tab Title: Property Management Software | Entrata
+2024-10-17 10:53:04,403 INFO Old Tab URL: https://www.entrata.com/a
+2024-10-17 10:53:04,419 INFO Verified old tab title and URL.
+2024-10-17 10:53:04,419 INFO ** test_explore_more executed successfully **
+2024-10-17 10:53:04,422 INFO Closing the browser.

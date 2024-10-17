@@ -1,0 +1,9 @@
+2024-10-17 10:57:30,457 INFO Navigating to the Entrata homepage.
+2024-10-17 10:57:57,238 INFO Cookie consent accepted.
+2024-10-17 10:57:57,404 INFO Browser window maximized.
+2024-10-17 10:57:57,848 INFO Ad closed.
+2024-10-17 10:57:57,850 INFO ** Executing test_move_to_products **
+2024-10-17 10:57:58,342 INFO Hovered over 'Products'.
+2024-10-17 10:57:58,858 INFO Hovered over 'Accounting'.
+2024-10-17 10:57:59,295 INFO Clicked on 'Bill Pay'.
+2024-10-17 10:58:10,014 INFO Closing the browser.

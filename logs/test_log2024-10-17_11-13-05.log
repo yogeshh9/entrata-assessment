@@ -1,0 +1,13 @@
+2024-10-17 11:13:07,733 INFO Navigating to the Entrata homepage.
+2024-10-17 11:13:14,083 INFO Cookie consent accepted.
+2024-10-17 11:13:14,254 INFO Browser window maximized.
+2024-10-17 11:13:14,659 INFO Ad closed.
+2024-10-17 11:13:14,661 INFO ** Executing test_summitRegistration **
+2024-10-17 11:13:14,693 INFO Located 'Summit' link.
+2024-10-17 11:13:15,111 INFO Hovered over 'Summit' link.
+2024-10-17 11:13:15,281 INFO Clicked on 'Summit' link.
+2024-10-17 11:13:15,339 ERROR An error occurred: Expected title to contain 'Summit', but got 'Property Management Software | Entrata'
+assert 'Summit' in 'Property Management Software | Entrata'
+ +  where 'Property Management Software | Entrata' = <selenium.webdriver.chrome.webdriver.WebDriver (session="da2635d95d21dc10cb1319f9d0ccd6df")>.title
+2024-10-17 11:13:16,173 INFO ** test_summit_page executed successfully **
+2024-10-17 11:13:16,176 INFO Closing the browser.

@@ -1,0 +1,13 @@
+2024-10-17 10:47:55,271 INFO Navigating to the Entrata homepage.
+2024-10-17 10:48:01,705 INFO Cookie consent accepted.
+2024-10-17 10:48:01,944 INFO Browser window maximized.
+2024-10-17 10:48:02,732 INFO Ad closed.
+2024-10-17 10:48:02,733 INFO ** Executing test_demoForm **
+2024-10-17 10:48:03,378 INFO Scrolled to the first name field.
+2024-10-17 10:48:04,673 INFO Filled out the user details.
+2024-10-17 10:48:05,039 INFO Selected unit count.
+2024-10-17 10:48:05,416 INFO Entered job title.
+2024-10-17 10:48:05,614 INFO Selected demo request option.
+2024-10-17 10:48:05,852 INFO Screenshot taken after filling the form.
+2024-10-17 10:48:05,853 INFO ** test_demo_form executed successfully **
+2024-10-17 10:48:05,859 INFO Closing the browser.
